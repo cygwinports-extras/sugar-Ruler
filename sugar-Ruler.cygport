@@ -1,0 +1,5 @@
+NAME="sugar-Ruler"
+VERSION=27
+RELEASE=1
+SUGAR_TYPE="Honey"
+inherit sugar
